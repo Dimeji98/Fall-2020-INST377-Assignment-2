@@ -10,17 +10,17 @@
    }
 
 body {
-       background-color: rgb(26, 73, 175);
+       background-color: rgb(250, 234, 181);
        margin: 0;
        padding: 0;
        font-family: 'Baloo 2', cursive;
    }
 
 h1 {
-    color: rgb(82, 215, 224);
+    color: rgb(0, 0, 0);
    }
 
-.restaurant li {
+.restaurant {
     flex: 0 1 auto;
     border-radius: 4px;
     max-width: 800px;
